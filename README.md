@@ -2,7 +2,7 @@
 # Employees Involved in Workforce Optimization Program
 - Source of Dataset: Kaggle (https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset)
 - Data Cleaning: SQL Server Management Studio 20 & ChatGPT
-- EDA & Data Visualization: Jupyter Notebook & Power BI
+- EDA & Data Visualization: Jupyter Notebook & Power BI & Microsoft Excel
 
 # Definition of Selected Parameters in HR Dataset
 - Employee Number: ID assigned to each employee (N=1467 / ID from 1 to 2068)
